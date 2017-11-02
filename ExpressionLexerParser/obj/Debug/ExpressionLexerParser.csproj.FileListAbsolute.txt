@@ -1,0 +1,6 @@
+C:\Users\Nick\documents\visual studio 2017\Projects\ExpressionLexerParser\ExpressionLexerParser\bin\Debug\ExpressionLexerParser.exe.config
+C:\Users\Nick\documents\visual studio 2017\Projects\ExpressionLexerParser\ExpressionLexerParser\bin\Debug\ExpressionLexerParser.exe
+C:\Users\Nick\documents\visual studio 2017\Projects\ExpressionLexerParser\ExpressionLexerParser\bin\Debug\ExpressionLexerParser.pdb
+C:\Users\Nick\documents\visual studio 2017\Projects\ExpressionLexerParser\ExpressionLexerParser\obj\Debug\ExpressionLexerParser.csprojResolveAssemblyReference.cache
+C:\Users\Nick\documents\visual studio 2017\Projects\ExpressionLexerParser\ExpressionLexerParser\obj\Debug\ExpressionLexerParser.exe
+C:\Users\Nick\documents\visual studio 2017\Projects\ExpressionLexerParser\ExpressionLexerParser\obj\Debug\ExpressionLexerParser.pdb
